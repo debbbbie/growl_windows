@@ -37,3 +37,7 @@ OK, other options is supported same as gem `growl`, you can find it from it's [h
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/growl_windows/debbbbie.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/debbbbie/growl_windows/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
