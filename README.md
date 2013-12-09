@@ -2,8 +2,9 @@ growl_windows
 =============
 
 Make gem `growl` support windows.
-As you could have known, gem `growl` only support MacOS. To solve the problem on
- Windows, gem `growl_windows` come out, which has same syntaxes with gem `growl`!
+As you could have known, gem `growl` only support MacOS. 
+
+To solve the problem on Windows, gem `growl_windows` come out, which has same syntaxes with gem `growl`!
 
 # Install
 
@@ -28,7 +29,7 @@ If it print some error like this:
 You can do this with growl installation path of yourself:
 
     require 'growl_windows'
-    Grow.register_binpath('C:\Program Files\Growl for windows\growlnotify.exe')
+    Growl.register_binpath('C:\Program Files\Growl for windows\growlnotify.exe')
     Growl.notify("Hello Windows", title: "Growl Test")
 
 OK, other options is supported same as gem `growl`, you can find it from it's [homepage](https://github.com/visionmedia/growl).
