@@ -33,3 +33,7 @@ You can do this with growl installation path of yourself:
     Growl.notify("Hello Windows", title: "Growl Test")
 
 OK, other options is supported same as gem `growl`, you can find it from it's [homepage](https://github.com/visionmedia/growl).
+
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/growl_windows/debbbbie.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
