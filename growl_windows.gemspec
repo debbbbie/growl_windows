@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = "growl_windows"
-  s.version       = "0.1.0"
+  s.version       = "0.1.1"
 
   s.authors       = "debbbbie"
   s.date          = "2013-12-09"
@@ -10,6 +10,10 @@ Gem::Specification.new do |s|
   s.homepage      = "https://github.com/debbbbie/growl_windows"
   s.require_paths = ["lib"]
   s.summary       = "Make gem `growl` support windows"
+  
+  
+  s.add_dependency "growl"
 
+  s.add_development_dependency "rspec"
 
 end
